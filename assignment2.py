@@ -1,2 +1,2 @@
-fname = "Mr."
+fname = "Mr"
 lname = "Yang"
